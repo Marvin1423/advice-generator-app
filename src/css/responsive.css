@@ -1,0 +1,13 @@
+@media(max-width: 768px){
+    .advice{ 
+        width: 80%;
+    }
+
+    .advice .pattern-divider-img{
+        width: 100%;
+    }
+
+    .advice .advice-description{
+        font-size: 1.3rem;
+    }
+}
