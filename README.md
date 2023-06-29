@@ -21,9 +21,9 @@ mobile design
 ![](./src/images/mobile-design.png)
 ## Links
 
-[Solução do projeto](https://your-solution-url.com)
+[Solução do projeto](https://www.frontendmentor.io/solutions/advice-generator-com-api-v9S1bHEWYf)
 
-[Site na net](https://marvin1423.github.io/advice-generator-app/)
+[Site na net](https://advice-generator-5o7144dcd-marvin1423.vercel.app/)
 ## O que eu aprendi
 trabalhei as minhas habilidades com API's e trabalhei minhas habilidades com layouts responsivos
 ## Autor
